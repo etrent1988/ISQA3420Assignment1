@@ -20,3 +20,52 @@ Main Success Scenario: The manager is able to successfully aquire the software p
 Failed End Conditions: The manager either can't acquire the information, or it comes back inaccurate.
 
 Trigger: The manager uploads the license and vulnerability project request
+
+
+
+
+USE CASE #2
+
+Title: Manager Updating and Modifying Existing Policy Documents
+
+Primary Actor: Manager
+
+Goal in Context: 
+
+Stakeholders: 
+              Manager - 
+              Developer - 
+              Project Owner -  
+
+Preconditions: 
+
+Main Success Scenario: 
+
+Failed End Conditions: 
+
+Trigger: 
+
+
+
+
+
+USE CASE #3
+
+Title: Developer Requesting Project Level Information and Policy Documents
+
+Primary Actor: Developer
+
+Goal in Context: 
+
+Stakeholders: 
+              Manager - 
+              Developer - 
+              Project Owner - 
+
+Preconditions: 
+
+Main Success Scenario: 
+
+Failed End Conditions: 
+
+Trigger: 
