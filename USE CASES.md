@@ -1,5 +1,3 @@
-This is my USE CASES file.
-
 USE CASE #1
 
 Title: Find Software Package License and Vulnerability Information for a Software Project
