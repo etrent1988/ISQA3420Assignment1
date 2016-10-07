@@ -1,4 +1,4 @@
-<b><u>USE CASE #1</u></b>
+<b>USE CASE #1</b>
 
 Title: Find Software Package License and Vulnerability Information for a Software Project
 
@@ -22,7 +22,7 @@ Trigger: The manager uploads the license and vulnerability project request
 
 
 
-USE CASE #2
+<b>USE CASE #2</b>
 
 Title: Manager Updating and Modifying Existing Policy Documents
 
@@ -47,7 +47,7 @@ Trigger:
 
 
 
-USE CASE #3
+<b>USE CASE #3</b>
 
 Title: Developer Requesting Project Level Information and Policy Documents
 
