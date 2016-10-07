@@ -22,6 +22,11 @@
 
 <b>Software Package Policy Database</b> - Database that stores policy information for the software package.
 
+<b>Manage Software Package Policy Database</b> - Process for manager to submit or modify policies to store in Policy Database.
+
+<b>Software Package Policy Documents Submit</b> - MAnager submits policy documents to Policy Database.
+
+<b>Software PAckage Policy Documents Modification</b> - Manager modifies policies in Policy Database.
 
 
 
