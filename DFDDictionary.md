@@ -16,26 +16,11 @@
 
 <b>Software Package and License Information Request</b> - A request for license information by either the developer or manager.
 
-<b>Query the Database to Retrieve all Software Package and License Information</b> - 
+<b>Query the Database to Retrieve all Software Package and License Information</b> - Manager or Developer requesting all the information about the software package and license information.
 
-<b>Manage Software Package Policy</b> - 
+<b>Scan databse for software package policies</b> - Manager or developer requests policy information for the software package. 
 
-<b>Software Package Policy Documents Modification</b> -
-
-<b>Software Package Policy Documents Submit</b> - 
-
-<b>Software Package Policy Database</b> - 
-
-<b>Scan the Database for Software Package Policies</b> - 
-
-<b>Software Package Policy Documents Request</b> - 
-
-<b>Software Package Policy Documents Results</b> - 
-
-
-
-
-
+<b>Software Package Policy Database</b> - Database that stores policy information for the software package.
 
 
 
