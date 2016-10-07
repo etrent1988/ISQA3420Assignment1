@@ -1,6 +1,6 @@
 <b>Developer</b> - Creates the software package that gets sent off to be scanned for licenses and vulnerabilities.
 
-Manager - Manages the project making sure there are no licensing issues or vulnerabilities.
+<b>Manager</b> - Manages the project making sure there are no licensing issues or vulnerabilities.
 
 Software Package - Created by the developer to be scanned for licenses and vulnerabilities.
 
