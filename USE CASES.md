@@ -1,4 +1,4 @@
-USE CASE #1
+<b><u>USE CASE #1</u></b>
 
 Title: Find Software Package License and Vulnerability Information for a Software Project
 
