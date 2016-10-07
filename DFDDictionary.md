@@ -2,35 +2,35 @@
 
 <b>Manager</b> - Manages the project making sure there are no licensing issues or vulnerabilities.
 
-Software Package - Created by the developer to be scanned for licenses and vulnerabilities.
+<b>Software Package</b> - Created by the developer to be scanned for licenses and vulnerabilities.
 
-Managing Software Package for License Scanning - Sends software package to be scanned for licensing and vulnerabilities.
+<b>Managing Software Package for License Scanning</b> - Sends software package to be scanned for licensing and vulnerabilities.
 
-Software Package Database - Stores all the information for the software package, whick includes license and vulnerability information. 
+<b>Software Package Database</b> - Stores all the information for the software package, whick includes license and vulnerability information. 
 
-National Vulnerability Database - Database that stores any vulnerabilities foun din software packages.
+<b>National Vulnerability Database</b> - Database that stores any vulnerabilities foun din software packages.
 
-Scan for Processes - Process that scans the software package for licenses.
+<b>Scan for Processes</b> - Process that scans the software package for licenses.
 
-Software Package License Results - License results retreived from the scan for processes.
+<b>Software Package License Results</b> - License results retreived from the scan for processes.
 
-Software Package and License Information Request - A request for license information by either the developer or manager.
+<b>Software Package and License Information Request</b> - A request for license information by either the developer or manager.
 
-Query the Database to Retrieve all Software Package and License Information - 
+<b>Query the Database to Retrieve all Software Package and License Information</b> - 
 
-Manage Software Package Policy - 
+<b>Manage Software Package Policy</b> - 
 
-Software Package Policy Documents Modification -
+<b>Software Package Policy Documents Modification</b> -
 
-Software Package Policy Documents Submit - 
+<b>Software Package Policy Documents Submit</b> - 
 
-Software Package Policy Database - 
+<b>Software Package Policy Database</b> - 
 
-Scan the Database for Software Package Policies - 
+<b>Scan the Database for Software Package Policies</b> - 
 
-Software Package Policy Documents Request - 
+<b>Software Package Policy Documents Request</b> - 
 
-Software Package Policy Documents Results - 
+<b>Software Package Policy Documents Results</b> - 
 
 
 
