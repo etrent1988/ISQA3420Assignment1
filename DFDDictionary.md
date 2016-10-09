@@ -26,7 +26,7 @@
 
 <b>Software Package Policy Documents Submit</b> - MAnager submits policy documents to Policy Database.
 
-<b>Software PAckage Policy Documents Modification</b> - Manager modifies policies in Policy Database.
+<b>Software Package Policy Documents Modification</b> - Manager modifies policies in Policy Database.
 
 
 
