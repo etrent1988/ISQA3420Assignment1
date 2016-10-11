@@ -1,6 +1,3 @@
-
-This is my executive summary file.
-
 One of the main goals of this repository is to show a system that can scan for software licenses and vulnerabilities.  Open Source software has become increasingly popular, and with that companies need to know what they are working with.  If there are any vulnerabilities with software that a comapny is using it is important to find them and inform the parties involved, which include the developer, manager, and project stakeholders.
 
 The system functions by first having the dveloper submit a software package to be scanned for licenses and then vulnerabilities.  To do this, the package gets sent off to a national vulnerability database.  Once the licenses and vulnerabilities are found they get forwarded to the project's software package database.  Meanwhile, the manager will submit or modify and company software policies into the software package policy database, that the developer also has access to.  To make sure that the software package submitted by the developer meets comapny standards, the manager and/or developer can query the software package database to compare to the licenses and vulnerabilities found.  From there, the manager or developer can provide the information to project stakeholders, and decide if any changes need to be made before continuing.
